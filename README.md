@@ -13,7 +13,7 @@
 ### GitHub Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aorayden&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden$theme=dracula&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
     
 ### Contact:
 
