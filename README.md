@@ -18,9 +18,9 @@
   </a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/aorayden">
-    <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
     
