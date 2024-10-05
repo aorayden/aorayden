@@ -18,7 +18,7 @@
   </a>
 </div>
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: right;">
   <a href="https://github.com/aorayden">
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
