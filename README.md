@@ -12,9 +12,7 @@
 
 ### GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aorayden&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&show_icons=true&theme=dracula&layout=compact&langs_count=7&hide_border=true" align="right" width="500">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aorayden&theme=dracula&hide_border=true)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&show_icons=true&theme=dracula&layout=compact&langs_count=7&hide_border=true" width="500">
     
 ### Contact:
 
