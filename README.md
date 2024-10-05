@@ -15,7 +15,7 @@
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/aorayden">
     <img height="195px" align="bottom-left" src="https://github-readme-stats.vercel.app/api?username=aorayden&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&"/>
-    <img height="195px" align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <img height="195px" align="bottom-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
     
