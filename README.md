@@ -13,7 +13,7 @@
 ### GitHub Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aorayden&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&theme=dracula&hide_border=true&layout=compact&langs_count=8&show_icons=true" height=195 weight=100>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&theme=dracula&hide_border=true&layout=compact&langs_count=8&show_icons=true" height="195" width="195">
     
 ### Contact:
 
