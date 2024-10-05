@@ -12,10 +12,12 @@
 
 ### GitHub Stats:
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aorayden&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 <div asign= "center" style="display: flex; justify-content: center;">
   <a href="https://github.com/aorayden">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=aorayden&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&"/>
-    <img height="170px" asign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=aorayden&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&"/>
+    <img height="195px" asign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
     
