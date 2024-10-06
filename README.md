@@ -9,6 +9,7 @@
   <img align="center" alt="Cris-Python" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Cris-visualstudio" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg">
+  <img align="center" alt="Cris-termux" height="35" width="40" src="https://avatars.githubusercontent.com/u/8104776?s=200&v=4">
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
