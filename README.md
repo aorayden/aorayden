@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro&weight=435&pause=1000&color=321EA8&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+beginner+Flutter+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro&weight=435&pause=1000&color=AA7CFA&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+beginner+Flutter+developer.)](https://git.io/typing-svg)
 
 <img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif" alt="Pixel Art" align="right" width="250">
 
@@ -14,7 +14,7 @@
 
 ### GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aorayden&show_icons=true&theme=material-palenight&hide_border=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&theme=dracula&hide_border=true&layout=compact&langs_count=8&show_icons=true"  width=355 height=195>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aorayden&show_icons=true&theme=material-palenight&hide_border=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorayden&theme=material-palenight&hide_border=true&layout=compact&langs_count=8&show_icons=true"  width=355 height=195>
     
 ### Contact:
 
